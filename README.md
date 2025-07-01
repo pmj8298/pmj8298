@@ -45,9 +45,6 @@
   <img src="https://img.icons8.com/ios-filled/50/000000/eclipse.png" title="Eclipse" />
 <img src="https://img.icons8.com/color/48/git.png" title="Git" />
 <img src="https://img.icons8.com/ios-filled/50/github.png" title="GitHub" />
-<img src="https://img.icons8.com/color/48/maven.png" title="Maven" />
-<img src="https://img.icons8.com/color/48/gradle.png" title="Gradle" />
-<img src="https://img.icons8.com/color/48/junit.png" title="JUnit" />
 </p>
 
 <!--
