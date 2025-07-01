@@ -37,12 +37,17 @@
   <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">
   <img width="40" height="40" src="https://img.icons8.com/office/40/react.png" alt="react"/>
   <img src="https://img.icons8.com/color/40/linux.png" title="Linux" />
-<img src="https://img.icons8.com/color/40/apache.png" title="Apache Tomcat" />
 </p>
 
 ## Using Tools
 <p align='left'>
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
+  <img src="https://img.icons8.com/ios-filled/50/000000/eclipse.png" title="Eclipse" />
+<img src="https://img.icons8.com/color/48/git.png" title="Git" />
+<img src="https://img.icons8.com/ios-filled/50/github.png" title="GitHub" />
+<img src="https://img.icons8.com/color/48/maven.png" title="Maven" />
+<img src="https://img.icons8.com/color/48/gradle.png" title="Gradle" />
+<img src="https://img.icons8.com/color/48/junit.png" title="JUnit" />
 </p>
 
 <!--
