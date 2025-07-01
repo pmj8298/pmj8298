@@ -36,6 +36,8 @@
   <img height="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot">  
   <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">
   <img width="40" height="40" src="https://img.icons8.com/office/40/react.png" alt="react"/>
+  <img src="https://img.icons8.com/color/40/linux.png" title="Linux" />
+<img src="https://img.icons8.com/color/40/apache.png" title="Apache Tomcat" />
 </p>
 
 ## Using Tools
