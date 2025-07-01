@@ -7,16 +7,16 @@
 ## Profile
 - `Name` : Park MingJu (Jju)
 - `Email` : pmj8298@naver.com
-- 🔭 I'm currently working as an **IoT instructor**
-  - Major : C#, Smart Factory, IoT Development
+- 🔭 **신입 개발자**로서 Java, Python, Spring Boot, JavaScript 등 웹 개발과 데이터 분석 기술을 보유하고 있습니다.
+  - Major : Spring Boot, 
   - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
  
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
 <p align='center'>
   <a href="https://github.com/pmj8298">
-    <img src="https://github-readme-stats.vercel.app/api?username=hugoMGSung&theme=tokyonight&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoMGSung&theme=tokyonight&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=pmj8298&theme=tokyonight&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmj8298&theme=tokyonight&layout=compact"/>
   </a>
 </p>
 
