@@ -26,13 +26,16 @@
     <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
     <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript">
     <img width="40" height="40" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo" title="Oracle">
+<img src="https://img.icons8.com/color/40/css3.png" title="CSS3" />
+<img src="https://img.icons8.com/color/40/html-5--v1.png" title="HTML5" />
+
 </p>
 
 ## Using Technics
 <p align='left'>
   <img height="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot">  
-  <img height="40" src="https://img.icons8.com/?size=100&id=VZfYlLgRZtdK&format=png&color=000000" title="FullStack"> 
   <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">
+  <img width="40" height="40" src="https://img.icons8.com/office/40/react.png" alt="react"/>
 </p>
 
 ## Using Tools
