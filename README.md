@@ -7,9 +7,10 @@
 ## Profile
 - `Name` : Park MingJu (Jju)
 - `Email` : pmj8298@naver.com
+- portfolio : https://pmj8298.github.io/portfolio/
 - 🔭 **신입 개발자**로서 Java, Python, Spring Boot, JavaScript 등 웹 개발과 데이터 분석 기술을 보유하고 있습니다.
   - Major : Spring Boot, 
-  - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
+  - Minor : Python, Java
  
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
